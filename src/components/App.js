@@ -33,7 +33,7 @@ export default function App() {
 
   // STRETCH - Make a helper function that returns
   // a filtered array of friends data (filtering by search term)
-
+  
 
   return (
     <div className='app-friends container'>
