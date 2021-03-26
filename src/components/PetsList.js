@@ -3,7 +3,7 @@ import React from 'react'
 import Pet from './Pet';
 
 export default function PetsList(props) {
-  const { petList } = props
+  const { petList } = props;
 
   return (
     <div className='list-pets-friends container'>
